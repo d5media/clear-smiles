@@ -18,68 +18,68 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-html{
-scroll-behavior: smooth;
-}
-.z7cc90fd262d478f1f3d0ef50cd50e859:hover{
-box-shadow: 0 49.7px 49.6px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-a{
-text-decoration: none!important;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-.b8445aac25703fe5d1b54662437ef95d6 a{
-font-size:16px;
+.nav-item{
+padding-left:8.3px;
+padding-right:8.5px;
+padding-top:5.1px;
+padding-bottom:4.7px;
 }
 ul{
 list-style: circle;
 }
-.uf5a2066ecd64fd99c2b132bb4d9ab8fb a,.b8445aac25703fe5d1b54662437ef95d6 a{
-color:#030303!important;
-text-decoration: underline !important;
-}
-.uf5a2066ecd64fd99c2b132bb4d9ab8fb p,.uf5a2066ecd64fd99c2b132bb4d9ab8fb a,.uf5a2066ecd64fd99c2b132bb4d9ab8fb span,.uf5a2066ecd64fd99c2b132bb4d9ab8fb label{
-font-size:16px!important;
-}
-.d9f0ad823a6c5017f16bdcc84d2c1ae1d{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-footer *{
-font-size:16px !important;
-}
 .btn-md{
-padding: 15.3px 29.7px;
+padding: 15.2px 29.7px;
 border-radius: 0;
+}
+footer{
+background:#020202;
+color:#ffffff;
+}
+.navbar a{
+font-size: 18.1px!important;
+font-weight: bold;
 }
 .nav-link{
 color: #000000!important;
 
 }
-.navbar a{
-font-size: 18px!important;
-font-weight: bold;
+.u5c75868ece359ba38d3cf53d76c139bd a{
+font-size:16px;
 }
-footer{
-background:#090909;
-color:#ffffff;
-}
-.nav-item{
-padding-left:8px;
-padding-right:8.1px;
-padding-top:4.8px;
-padding-bottom:5.5px;
-}
-.b8445aac25703fe5d1b54662437ef95d6 p,.b8445aac25703fe5d1b54662437ef95d6 span,.b8445aac25703fe5d1b54662437ef95d6 label{
+.zdf88d09240389e5cd8025b6a8022eb57 p,.zdf88d09240389e5cd8025b6a8022eb57 a,.zdf88d09240389e5cd8025b6a8022eb57 span,.zdf88d09240389e5cd8025b6a8022eb57 label{
 font-size:16px!important;
+}
+.zdf88d09240389e5cd8025b6a8022eb57 a,.u5c75868ece359ba38d3cf53d76c139bd a{
+color:#030303!important;
+text-decoration: underline !important;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+footer *{
+font-size:16px !important;
+}
+.w702e33e31a2119fff1e16f9ade1a4966{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.u5c75868ece359ba38d3cf53d76c139bd p,.u5c75868ece359ba38d3cf53d76c139bd span,.u5c75868ece359ba38d3cf53d76c139bd label{
+font-size:16px!important;
+}
+a{
+text-decoration: none!important;
+}
+html{
+scroll-behavior: smooth;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.f805fa5d981bb980c0d2948fc9c26d25f:hover{
+box-shadow: 0 50.4px 50.3px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
 </style>
 </head>
@@ -87,10 +87,10 @@ font-size:16px!important;
 <nav class="navbar navbar-expand-lg">
 <a class="navbar-brand" href="https://clear-smiles.netlify.app/dentist-in-weston-fl.html"  ><img alt="img/clear-smiles-dental-logo.png" src="img/clear-smiles-dental-logo.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="align-items-center d-flex ml-auto navbar-nav"><li class="nav-item ">
-<a class="bd71e90a40741b0792f5d1baaf7b3a0df nav-link" href="https://clear-smiles.netlify.app/dentist-in-weston-fl.html"  >Dentist in Weston, FL</a>
-</li><li class="nav-item"><a class="nav-link bd71e90a40741b0792f5d1baaf7b3a0df" rel=nofollow href="https://clear-smiles.netlify.app/about-us.html">About Us</a>
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="d-flex align-items-center navbar-nav ml-auto"><li class=" nav-item">
+<a class="e3d6b32215081898aba9261a1dbab5ae8 nav-link" href="https://clear-smiles.netlify.app/dentist-in-weston-fl.html"  >Dentist in Weston, FL</a>
+</li><li class="nav-item"><a class="nav-link e3d6b32215081898aba9261a1dbab5ae8" rel=nofollow href="https://clear-smiles.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -157,7 +157,7 @@ Florida</br>
 </p>
 </section>
 <footer>
-<div class="container pt-5 py-4" >
+<div class="container py-4 pt-5" >
 <div class="row"><div class="col-lg-3">
 <p>Clear Smiles Dental</p>
 <p>Phone : +17547049048</p>
@@ -165,17 +165,17 @@ Florida</br>
 <p>State : Florida</p>
 <p>Zip : 33326</p>
 <p>Address : 1900 Weston Rd</p>
-<p><a class="bd71e90a40741b0792f5d1baaf7b3a0df" href="https://www.google.com/maps?cid=7616489489527414810" rel="nofollow"> Google Business Profile</a></p>
-</div><div class="col-lg-3"><p><a class="bd71e90a40741b0792f5d1baaf7b3a0df" href="https://clear-smiles.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="bd71e90a40741b0792f5d1baaf7b3a0df" href="https://clear-smiles.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="bd71e90a40741b0792f5d1baaf7b3a0df" href="https://clear-smiles.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="e3d6b32215081898aba9261a1dbab5ae8" href="https://www.google.com/maps?cid=7616489489527414810" rel="nofollow"> Google Business Profile</a></p>
+</div><div class="col-lg-3"><p><a class="e3d6b32215081898aba9261a1dbab5ae8" href="https://clear-smiles.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="e3d6b32215081898aba9261a1dbab5ae8" href="https://clear-smiles.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="e3d6b32215081898aba9261a1dbab5ae8" href="https://clear-smiles.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/ClearSmilesDental" class="abb3867f3a1dc04a6d7e688c2e748ad11 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/clearsmilesdental" class="google abb3867f3a1dc04a6d7e688c2e748ad11-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://twitter.com/ClearSmiles" class="abb3867f3a1dc04a6d7e688c2e748ad11 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/ClearSmilesDental" class="facebook u9612cbf8fdf6c2464cdb7c17068d9966" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/clearsmilesdental" class="google u9612cbf8fdf6c2464cdb7c17068d9966-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://twitter.com/ClearSmiles" class="u9612cbf8fdf6c2464cdb7c17068d9966 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
